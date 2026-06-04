@@ -149,18 +149,6 @@ Most labs follow this pattern:
 
 ---
 
-## Requirements
-
-To run these labs, you need:
-
-* Oracle Database
-* SQL Developer, SQLcl, or any Oracle SQL client
-* Permission to create tables and indexes
-* Permission to gather statistics using `DBMS_STATS`
-* Access to `DBMS_XPLAN` for reading execution plans
-
----
-
 ## Final Takeaway
 
 Oracle SQL performance analysis is not about guessing.
